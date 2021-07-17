@@ -1,0 +1,50 @@
+[
+    {
+        "precio": 29.99,
+        "id": 1,
+        "title": "Sudadera chica",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2H-QB4ldFs2xP87u6pgycyU8zY92c4YUeR1j4GP9zxuNaf2VpmdGke1FfEcvyn3nzUHay6jH&usqp=CAc"
+    },
+    {
+        "precio": 4.99,
+        "id": 2,
+        "title": "Camiseta tirantes",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK0tVSuCPyUSSRGxaTPj3puf6AGn2l9WSdgdDB6tpIMq71u7LpXud3qccxmxCjmNH7gg7ddc&usqp=CAc"
+    },
+    {
+        "precio": 19.99,
+        "id": 3,
+        "title": "Vestido Negro",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs42vNGutpR1--WqDGEOXD8ATcNNw86aLQ8ZuXL2A1CeCuy2MnPLyngj2WcOUAZxR-kCkmUxs&usqp=CAc"
+    },
+    {
+        "precio": 12.99,
+        "id": 4,
+        "title": "Sudadera Mariposa",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLk0gQxSMSKq63qbA9uVgngKJk6dOP5YAUA5KqLqohjzhHvPQ-zlw8ijvT0U10Js4ySBB0Ij&usqp=CAc"
+    },
+    {
+        "precio": 29.99,
+        "id": 5,
+        "title": "Camiseta chico",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVESjBeNSYa0sxeAY7YVEBnPPlpiVpHCBx8GjEGuwVZ8cfBIWeEHbJtcurGjOXj4lgAcarco&usqp=CAc"
+    },
+    {
+        "precio": 14.99,
+        "id": 6,
+        "title": "Camiseta chico",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs2urWxLZFK3Sxx2ZLjZ5kABvthbe8P4txtS4Zr5HbyRmLgOog96gZqBKqiwWCto-9NSqog74&usqp=CAc"
+    },
+    {
+        "precio": 9.99,
+        "id": 7,
+        "title": "Camiseta Happy",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUU4e8NkHAKT_OFV7T1IFYdVtU2A8c_uFgcl1qV0wBpOhhzTbefPUhJqs_LtGot_4B4qclE48&usqp=CAc"
+    },
+    {
+        "precio": 19.99,
+        "id": 8,
+        "title": "Sudadera mariposa",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-Q-FfTAGigKMY9AL9IJ8zUgD21v4UmUGZCDiWj1xBkqpnqjrQXYGIaXupqZOAhX_FOM6vcoe&usqp=CAc"
+    }
+]
